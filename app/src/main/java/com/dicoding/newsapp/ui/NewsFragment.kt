@@ -9,6 +9,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.dicoding.newsapp.databinding.FragmentNewsBinding
+import com.dicoding.newsapp.data.Result
 
 class NewsFragment : Fragment() {
 
